@@ -13,3 +13,7 @@
       </br>
 2. Click load</br>
 3. Click clock much time until the process has the finish</br>
+
+Create by:
+Alfi Dharmawan 
+Cete
